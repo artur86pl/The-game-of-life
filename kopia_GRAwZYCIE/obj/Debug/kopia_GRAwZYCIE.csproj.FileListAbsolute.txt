@@ -1,0 +1,7 @@
+C:\Users\artur\source\repos\kopia_GRAwZYCIE\kopia_GRAwZYCIE\bin\Debug\kopia_GRAwZYCIE.exe.config
+C:\Users\artur\source\repos\kopia_GRAwZYCIE\kopia_GRAwZYCIE\bin\Debug\kopia_GRAwZYCIE.exe
+C:\Users\artur\source\repos\kopia_GRAwZYCIE\kopia_GRAwZYCIE\bin\Debug\kopia_GRAwZYCIE.pdb
+C:\Users\artur\source\repos\kopia_GRAwZYCIE\kopia_GRAwZYCIE\obj\Debug\kopia_GRAwZYCIE.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\kopia_GRAwZYCIE\kopia_GRAwZYCIE\obj\Debug\kopia_GRAwZYCIE.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\kopia_GRAwZYCIE\kopia_GRAwZYCIE\obj\Debug\kopia_GRAwZYCIE.exe
+C:\Users\artur\source\repos\kopia_GRAwZYCIE\kopia_GRAwZYCIE\obj\Debug\kopia_GRAwZYCIE.pdb
